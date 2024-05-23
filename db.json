@@ -1,17 +1,17 @@
-[
+"professionals":[
   {
-    "id": 1,
-    "nombre": "Dra Mercado Sandra",
-    "foto": "../img/professional-1.jpg"
-  },
-  {
-    "id": 2,
-    "nombre": "Dra. Quinteros Rocio",
-    "foto": "../img/professional-3.jpg"
-  },
-  {
-    "id": 3,
-    "nombre": "Dra. Gallardo Patricia",
-    "foto": "../img/professional-4.jpg"
-  }
+  "id": 1,
+  "name": "Dra Mercado Sandra",
+  "img": "../img/professional.jpg"
+},
+{
+  "id": 2,
+  "name": "Dra. Quinteros Rocio",
+  "img": "../img/professional.jpg"
+},
+{
+  "id": 3,
+  "name": "Dra. Gallardo Patricia",
+  "img": "../img/professional.jpg"
+}
 ]
