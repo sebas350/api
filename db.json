@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Dra Mercado Sandra",
+        "foto": "../img/professional-1.jpg"
+    },
+    {
+        "nombre": "Dra. Quinteros Rocio",
+        "foto": "../img/professional-3.jpg"
+    },
+    {
+        "nombre": "Dra. Gallardo Patricia",
+        "foto": "../img/professional-4.jpg"
+    }
+]
