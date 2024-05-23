@@ -1,14 +1,14 @@
 [
     {
         "nombre": "Dra Mercado Sandra",
-        "foto": "../img/professional-1.jpg"
+        "foto": "https://drive.google.com/file/d/1Bw722uf6RyJNNiUxv9oKX2InqIKuHJBr/view?usp=drivesdk"
     },
     {
         "nombre": "Dra. Quinteros Rocio",
-        "foto": "../img/professional-3.jpg"
+        "foto": "https://drive.google.com/file/d/1By0qoZMZE2k6VrLX0nOTPMKP7T9oRGEd/view?usp=drivesdk"
     },
     {
         "nombre": "Dra. Gallardo Patricia",
-        "foto": "../img/professional-4.jpg"
+        "foto": "https://drive.google.com/file/d/1C-9o9zUBucRsmNlnIn_rQSFPR_LG1FeT/view?usp=drivesdk"
     }
 ]
