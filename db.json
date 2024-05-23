@@ -1,7 +1,8 @@
-"prof1": {"name": "Dra Mercado Sandra",
-  "img": "https://drive.google.com/file/d/1Bw722uf6RyJNNiUxv9oKX2InqIKuHJBr/view?usp=drivesdk"},
-  "prof2": {"name": "Dra. Quinteros Rocio",
+[
+  {"name": "Dra Mercado Sandra",
+    "img": "https://drive.google.com/file/d/1Bw722uf6RyJNNiUxv9oKX2InqIKuHJBr/view?usp=drivesdk"},
+  {"name": "Dra. Quinteros Rocio",
     "img": "https://drive.google.com/file/d/1By0qoZMZE2k6VrLX0nOTPMKP7T9oRGEd/view?usp=drivesdk"},
-  "prof3": {"name": "Dra. Gallardo Patricia",
-    "img": "https://drive.google.com/file/d/1C-9o9zUBucRsmNlnIn_rQSFPR_LG1FeT/view?usp=drivesdk"
-}
+  {"name": "Dra. Gallardo Patricia",
+    "img": "https://drive.google.com/file/d/1C-9o9zUBucRsmNlnIn_rQSFPR_LG1FeT/view?usp=drivesdk"}
+]
