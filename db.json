@@ -1,4 +1,6 @@
-"professionals":[
+{
+  "professionals":
+[
   {
   "id": 1,
   "name": "Dra Mercado Sandra",
@@ -15,3 +17,4 @@
   "img": "../img/professional.jpg"
 }
 ]
+}
