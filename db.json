@@ -1,12 +1,12 @@
 {
   "nombre": "Dra Mercado Sandra",
-  "foto": "https://drive.google.com/file/d/1Bw722uf6RyJNNiUxv9oKX2InqIKuHJBr/view?usp=drivesdk",
-    },
-    {
-        "nombre": "Dra. Quinteros Rocio",
-        "foto": "https://drive.google.com/file/d/1By0qoZMZE2k6VrLX0nOTPMKP7T9oRGEd/view?usp=drivesdk",
-    },
-    {
-        "nombre": "Dra. Gallardo Patricia",
-        "foto": "https://drive.google.com/file/d/1C-9o9zUBucRsmNlnIn_rQSFPR_LG1FeT/view?usp=drivesdk",
-    }
+  "foto": "https://drive.google.com/file/d/1Bw722uf6RyJNNiUxv9oKX2InqIKuHJBr/view?usp=drivesdk"
+},
+{
+  "nombre": "Dra. Quinteros Rocio",
+  "foto": "https://drive.google.com/file/d/1By0qoZMZE2k6VrLX0nOTPMKP7T9oRGEd/view?usp=drivesdk"
+},
+{
+  "nombre": "Dra. Gallardo Patricia",
+  "foto": "https://drive.google.com/file/d/1C-9o9zUBucRsmNlnIn_rQSFPR_LG1FeT/view?usp=drivesdk"
+}
